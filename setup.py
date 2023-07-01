@@ -6,7 +6,7 @@ README = os.path.join(os.path.abspath(os.path.dirname(__file__)), 'README.rst')
 
 
 DEPENDENCIES = [
-    'django >=2.2, <4.1',
+    'django >=2.2, <=4.2',
 ]
 
 
